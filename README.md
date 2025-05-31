@@ -48,6 +48,37 @@ An intelligent, real-time Intrusion Detection System (IDS) leveraging a hybrid m
 
 ---
 
+---
+
+## 📄 Paper Publication
+
+📘 This project has been officially published as a research paper:
+
+**Title:** A Hybrid Machine Learning Approach for Network Intrusion Detection with Real-Time Visualization  
+**Author:** Kartik Lutimath  
+**Journal:** *Journal of Software and Computer Communications and Informatics (JoSCCI)*  
+**Publisher:** MAT Journals  
+**Publication Date:** May 2025  
+**ISSN:** 2582-6044
+
+🔗 [Read the full paper on MAT Journals](https://matjournals.net/engineering/index.php/JoSCCI/article/view/1700)
+
+---
+
+> 📝 You can cite this work using the following BibTeX:
+
+```bibtex
+@article{lutimath2025hybrid,
+  title={A Hybrid Machine Learning Approach for Network Intrusion Detection with Real-Time Visualization},
+  author={Lutimath, Kartik},
+  journal={Journal of Software and Computer Communications and Informatics (JoSCCI)},
+  volume={6},
+  number={1},
+  year={2025},
+  publisher={MAT Journals},
+  url={https://matjournals.net/engineering/index.php/JoSCCI/article/view/1700}
+}
+```
 ## 🧪 Model Performance
 
 | Metric    | Value  |
