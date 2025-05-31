@@ -17,7 +17,6 @@ An intelligent, real-time Intrusion Detection System (IDS) leveraging a hybrid m
 
 ---
 
-## 🖼️ Demo
 
 ## 🖼️ Demo
 
