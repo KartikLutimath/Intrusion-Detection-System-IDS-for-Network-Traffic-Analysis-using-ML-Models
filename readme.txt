@@ -21,10 +21,10 @@ An intelligent, real-time Intrusion Detection System (IDS) leveraging a hybrid m
 
 ## 🖼️ Demo
 
-![Intrusion Detection System Demo](assets/img1.jpg)
-![Per-Second Counts (Normal vs Intrusions)](assets/img2.jpg)
-![Random Forest Predictions Over Time](assets/img3.jpg)
-![Isolation Forest Anomaly Scores Over Time](assets/img3.jpg)
+![Intrusion Detection System Demo](assets/img1.png)
+![Per-Second Counts (Normal vs Intrusions)](assets/img2.png)
+![Random Forest Predictions Over Time](assets/img3.png)
+![Isolation Forest Anomaly Scores Over Time](assets/img4.png)
 
 ---
 
